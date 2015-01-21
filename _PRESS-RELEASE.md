@@ -18,27 +18,36 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  Agora : Your Central Marketplace
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  Find today's sales at your favorite store in seconds. 
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  No one has time to keep up with sales going on at all the stores out there today. That's why you can simply search for any
+  sales going on right now before you go shopping at your favorite stores. No annoying spam mail, no coupons required for savings.
 
 ## Problem ##
   > Describe the problem your product solves.
+  Mailing lists are annoying and coupons are time-consuming to obtain. Consumers can just search their favorite store and see if 
+  any sales are going on today.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  Become a more informed consumer prior to spending any time shopping. 
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  Go to Agora and search your favorite store. Simple as that. 
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  Before your next shopping trip to the mall or online, go to Agora. 
