@@ -1,0 +1,14 @@
+<div class="container" ng-controller="electronicsCtrl">
+    <h1 class="text-center">Electronics</h1>
+    <div style="display: block">
+        <div style="width: 100% display: block;">
+           <form name="deals" style="display:block">
+               <input class="text" type="text" style="display:block; margin: 10px auto 10px auto" name="searched" ng-model="searched" placeholder="Search Electronics" ng-keypress="search()">
+               <button ng-click="search()" class="btn-info" style="display:block; margin:auto;">Search</button>
+           </form>
+        </div>
+    </div>
+        <div style="height: 250px; overflow: scroll;">
+        <a ng-repeat="todo in todos | filter:searched" href={{todo.href}} class="text-center" style="display:block">{{todo.text}} </a>
+    </div>
+</div>
